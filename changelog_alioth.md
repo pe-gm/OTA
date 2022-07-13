@@ -1,0 +1,6 @@
+- Detect OEM fast charger
+- Adjust brightness configs
+- Allow mediaswcodec to access gpu_device
+- Port CLO's memory optimizations
+- Add missing system permissions
+- Last Immensity changes
