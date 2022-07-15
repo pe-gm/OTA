@@ -1,6 +1,15 @@
-- Detect OEM fast charger
-- Adjust brightness configs
-- Allow mediaswcodec to access gpu_device
-- Port CLO's memory optimizations
-- Add missing system permissions
+# July Release (14/07/22)
+- Added Notch bar killer 
+- Added missing system permissions
+- Added support for OTA update 
+- Applock improvements 
+- Detect fast charger correctly 
+- Disabled battery estimates on QS header
 - Last Immensity changes
+- Port CLO memory optimizations
+- Suppressed many denials 
+- Use gaming profile as fallback for GameSpace
+- Using Lahaina graphics stack
+- Wifi adjustments
+- Upstreamed Netero to 4.19.251
+- Minor improvements..
